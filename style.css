@@ -40,12 +40,12 @@
 .header-img{
 }
 .section-baground{
-    background-image: url(group1.jpeg);
-    width: 1440px;
+    background-image: url(./img.src/group1.jpeg);
+    background-size: cover;
     height: 858px;
 }
 .section-img{
-    background-image: url(group2.png);
+    background-image: url(./img.src/group2.png);
     width: 1440px;
     height: 604px;
 }
