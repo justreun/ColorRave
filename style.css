@@ -53,7 +53,7 @@
   }
   
   .background-img {
-    background-image: url("./images/backgr-img-nike.jpg");
+    background-image: url("./img.src/backgr-img-nike.jpg");
     background-size: cover;
     background-position: center;
     height: 1058px;
@@ -124,7 +124,7 @@
   }
   
   .section-background {
-    background-image: url("./images/background.png");
+    background-image: url("./img.src/background.png");
     background-size: cover;
     height: 606px;
     background-repeat: no-repeat;
@@ -262,7 +262,7 @@
   }
   
   .review-backgr {
-    background-image: url(./images/new-backgr-reviews.png);
+    background-image: url(./img.src/new-backgr-reviews.png);
     background-size: cover;
     height: 720px;
     background-repeat: no-repeat;
@@ -270,12 +270,13 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
     gap: 93px;
     margin: 0;
   }
   
   .review-h2 {
-    background-image: url(./images/backgr-img-reviwes.png);
+    background-image: url(./img.src/backgr-img-reviwes.png);
   }
   .h2-review {
     color: white;
@@ -294,7 +295,7 @@
   }
   
   .order {
-    background-image: url(./images/backgr-orderpng.png);
+    background-image: url(./img.src/backgr-orderpng.png);
     background-size: cover;
     height: 609px;
     margin: 0;
